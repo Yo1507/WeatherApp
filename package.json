@@ -13,6 +13,8 @@
     "author": "Yo",
     "license": "ISC",
     "dependencies": {
-        "request": "^2.83.0"
+        "lodash": "^4.17.4",
+        "request": "^2.83.0",
+        "yargs": "^9.0.1"
     }
 }
